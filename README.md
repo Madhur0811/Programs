@@ -1,1 +1,2 @@
-Machine learning algorithmswritten using various R programming constructs
+# R_algorithms
+List of algorithms and methods in R to perform data analysis.
